@@ -1,0 +1,262 @@
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\appsettings.json
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.exe
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.deps.json
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.runtimeconfig.json
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.runtimeconfig.dev.json
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\ref\Glamour Estore.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.pdb
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.Views.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.Views.pdb
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.csprojAssemblyReference.cache
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.AssemblyInfoInputs.cache
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.AssemblyInfo.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.csproj.CoreCompileInputs.cache
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.RazorAssemblyInfo.cache
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.RazorAssemblyInfo.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\staticwebassets\Glamour Estore.StaticWebAssets.Manifest.cache
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\staticwebassets\Glamour Estore.StaticWebAssets.xml
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\scopedcss\bundle\Glamour Estore.styles.css
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.TagHelpers.input.cache
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.TagHelpers.output.cache
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.RazorCoreGenerate.cache
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Razor\Views\About\about.cshtml.g.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Blog\blog.cshtml.g.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Contact\contact.cshtml.g.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Product\product.cshtml.g.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Testimonial\testimonial.cshtml.g.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.RazorTargetAssemblyInfo.cache
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.RazorTargetAssemblyInfo.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.Views.pdb
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\ref\Glamour Estore.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.pdb
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.genruntimeconfig.cache
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.csproj.CopyComplete
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Razor\Views\LogIn\login.cshtml.g.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Razor\Views\SignUp\signup.cshtml.g.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Humanizer.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Shared\_partial.cshtml.g.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Admin\admin.cshtml.g.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Add\add.cshtml.g.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Remove\remove.cshtml.g.cs
+C:\Users\AL AZIZ\Desktop\university\semester 6\Web Enginnering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Update\update.cshtml.g.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\appsettings.Development.json
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\appsettings.json
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.StaticWebAssets.xml
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.exe
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.deps.json
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.runtimeconfig.json
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.runtimeconfig.dev.json
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.pdb
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.Views.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.Views.pdb
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Humanizer.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.csproj.AssemblyReference.cache
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.GeneratedMSBuildEditorConfig.editorconfig
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.AssemblyInfoInputs.cache
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.AssemblyInfo.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.csproj.CoreCompileInputs.cache
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.MvcApplicationPartsAssemblyInfo.cache
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.RazorAssemblyInfo.cache
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.RazorAssemblyInfo.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\scopedcss\bundle\Glamour Estore.styles.css
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\staticwebassets\Glamour Estore.StaticWebAssets.Manifest.cache
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\staticwebassets\Glamour Estore.StaticWebAssets.Pack.cache
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\staticwebassets\msbuild.Glamour Estore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\staticwebassets\msbuild.build.Glamour Estore.props
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Glamour Estore.props
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Glamour Estore.props
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.TagHelpers.input.cache
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.TagHelpers.output.cache
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.RazorCoreGenerate.cache
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\About\about.cshtml.g.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Add\add.cshtml.g.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Admin\admin.cshtml.g.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Blog\blog.cshtml.g.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Contact\contact.cshtml.g.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\LogIn\login.cshtml.g.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Product\product.cshtml.g.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Remove\remove.cshtml.g.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Shared\_partial.cshtml.g.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\SignUp\signup.cshtml.g.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Testimonial\testimonial.cshtml.g.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Update\update.cshtml.g.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.RazorTargetAssemblyInfo.cache
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.RazorTargetAssemblyInfo.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.Views.pdb
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.csproj.CopyComplete
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\refint\Glamour Estore.dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.pdb
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.genruntimeconfig.cache
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\ref\Glamour Estore.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\appsettings.Development.json
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\appsettings.json
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.StaticWebAssets.xml
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.exe
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.deps.json
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.runtimeconfig.json
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.runtimeconfig.dev.json
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.pdb
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.Views.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Glamour Estore.Views.pdb
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Humanizer.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.csproj.AssemblyReference.cache
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.GeneratedMSBuildEditorConfig.editorconfig
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.AssemblyInfoInputs.cache
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.AssemblyInfo.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.csproj.CoreCompileInputs.cache
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.MvcApplicationPartsAssemblyInfo.cache
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.RazorAssemblyInfo.cache
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.RazorAssemblyInfo.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\scopedcss\bundle\Glamour Estore.styles.css
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\staticwebassets\Glamour Estore.StaticWebAssets.Manifest.cache
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\staticwebassets\Glamour Estore.StaticWebAssets.Pack.cache
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\staticwebassets\msbuild.Glamour Estore.Microsoft.AspNetCore.StaticWebAssets.props
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\staticwebassets\msbuild.build.Glamour Estore.props
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Glamour Estore.props
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Glamour Estore.props
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.TagHelpers.input.cache
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.TagHelpers.output.cache
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.RazorCoreGenerate.cache
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\About\about.cshtml.g.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Add\add.cshtml.g.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Admin\admin.cshtml.g.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Blog\blog.cshtml.g.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Contact\contact.cshtml.g.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\LogIn\login.cshtml.g.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Product\product.cshtml.g.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Remove\remove.cshtml.g.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Shared\_partial.cshtml.g.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\SignUp\signup.cshtml.g.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Testimonial\testimonial.cshtml.g.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\Update\update.cshtml.g.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.RazorTargetAssemblyInfo.cache
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.RazorTargetAssemblyInfo.cs
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.Views.pdb
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\refint\Glamour Estore.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.pdb
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.genruntimeconfig.cache
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\ref\Glamour Estore.dll
+E:\BscsPUCIT\BSCS 6th Semester\Web Engineering\Glamour Estore\obj\Debug\net5.0\Glamour Estore.csproj.CopyComplete
